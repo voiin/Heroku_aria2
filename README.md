@@ -15,6 +15,7 @@ scope = WHATEVER
 token = WHATEVER
 ```
 others entries...
+
 3. 找到您要使用的驱动器，然后将其复制type = ...到 ... token = ...部分。
 4. 在每行后面加上 \n
 5. 使用上方的按钮进行部署，然后将该文本粘贴到 RCLONE_CONFIG
